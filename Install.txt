@@ -9,6 +9,7 @@ Windows
 1.1 Download and install both msmpisetup.exe and msmpisdk.msi from https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi
 1.2 Download Eigen3 from https://eigen.tuxfamily.org/ and move contents to C:/Program Files/Eigen
 1.3 Download zlib from https://www.bruot.org/hp/media/files/libraries/zlib_1_2_11_msvc2017_64.zip and move contents to C:/Program Files/Zlib
+1.4 用vs2017-64编译
 
 2. Download and install Karamelo:
 2.1 git clone https://github.com/adevaucorbeil/karamelo.git

@@ -27,3 +27,8 @@ This paper is availble only at https://www.researchgate.net/publication/34309680
 
 # Documentation:
 Please find Karamelo's documentation here:  https://adevaucorbeil.github.io/karamelo/html/index.html
+
+## Linux 调用编译好的程序进行计算
+
+* /home/cth/Documents/karamelo/karamelo -i test.mpm
+
