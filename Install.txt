@@ -32,3 +32,7 @@ unset BOOST_ROOT
 cmake -DCMAKE_BUILD_TYPE=release -DCMAKE_CXX_COMPILER=mpicxx -DCMAKE_C_COMPILER=mpicc -DBoost_INCLUDE_DIR=$BOOST_BASE/include -DBoost_LIBRARY_DIR=$BOOST_BASE/lib/GNU build .
 make -j04
 
+
+## Linux 调用编译好的程序进行计算
+
+* /home/cth/Documents/karamelo/karamelo -i test.mpm
