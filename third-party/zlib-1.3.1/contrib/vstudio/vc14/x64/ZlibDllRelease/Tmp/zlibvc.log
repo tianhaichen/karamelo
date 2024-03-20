@@ -1,0 +1,20 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  ioapi.c
+  iowin32.c
+  trees.c
+  uncompr.c
+  zutil.c
+  unzip.c
+  zip.c
+.\zlibvc.def(4): fatal error LNK1118: “VERSION”语句中的语法错误

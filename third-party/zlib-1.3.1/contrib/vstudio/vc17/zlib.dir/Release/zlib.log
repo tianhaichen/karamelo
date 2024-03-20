@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/cth26/Downloads/zlib-1.3.1/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+  正在生成代码...
+    正在创建库 C:/Users/cth26/Downloads/zlib-1.3.1/contrib/vstudio/vc17/Release/zlib.lib 和对象 C:/Users/cth26/Downloads/zlib-1.3.1/contrib/vstudio/vc17/Release/zlib.exp
+  zlib.vcxproj -> C:\Users\cth26\Downloads\zlib-1.3.1\contrib\vstudio\vc17\Release\zlib.dll
